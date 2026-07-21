@@ -1,0 +1,17 @@
+city	status	year	stations	components	edges	ignored_edges	reason
+Barcelona	ok	2010	136	1	320	0	
+Beijing	ok	2010	126	1	278	0	
+Berlin	ok	2010	173	2	368	0	
+Chicago	skipped						missing adjacency-number topology
+HongKong	skipped						missing stations-positions-years
+london-tube	ok	2009	266	1	616	0	
+Madrid	skipped						missing stations-positions-years
+mexicodf	skipped						missing stations-positions-years
+Moscow	skipped						missing stations-positions-years
+New_tokyo	ok	2009	217	1	524	0	
+NewNYC	skipped						missing stations-positions-years
+NYC	skipped						missing stations-positions-years
+Osaka	ok	2010	108	1	246	0	
+Paris	ok	2009	299	1	712	0	
+Seoul	skipped						missing stations-positions-years
+Shanghai	ok	2010	194	1	424	0	
